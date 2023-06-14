@@ -32,7 +32,7 @@ class MyThreadToo extends Thread{
 /*
 OUTPUT
 
-saanvi@her-techplay:~/code/java/Multithreading$ java oops7a.java
+
 Thread one created
 Thread one created
 Thread one created
