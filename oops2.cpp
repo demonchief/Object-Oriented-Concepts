@@ -129,8 +129,7 @@ int main(){
 
 /*
 OUTPUT
-saanvi@her-techplay:~/code/ads_oops$ ./a.out
-hello world
+
 
 NAME: xyz
 ID: 2
