@@ -115,9 +115,7 @@ int main(){
 /*
 OUTPUT
 
-saanvi@her-techplay:~/code/cpp$ g++ oops6_vector.cpp
-saanvi@her-techplay:~/code/cpp$ ./a.out
-jello world
+
 
 choose operation for stack:
 1:push	2:pop	3:display
