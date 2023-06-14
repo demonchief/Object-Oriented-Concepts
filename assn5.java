@@ -174,8 +174,7 @@ class bank implements Serializable{
 
 /*
 OUTPUT
-saanvi@her-techplay:~/code/java$ java assn4.java
-jello world
+
 choose operation: 
 1:Create Account 
 2:Withdraw Amount 
