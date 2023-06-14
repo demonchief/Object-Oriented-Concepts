@@ -164,10 +164,6 @@ int main(){
 /*
 OUTPUT
 
-saanvi@her-techplay:~/code/cpp$ g++ oops4.cpp
-saanvi@her-techplay:~/code/cpp$ ./a.out
-jello world
-
 enter name: saanvi
 
 enter id: 33
@@ -193,7 +189,7 @@ room type: deluxe
 
 Customer data is correct with d = 4
 
-customer name: saanvi
+customer name: Tanish
 customer id: 33
 customer age: 20
 customer income: 50000
@@ -202,6 +198,6 @@ room type: deluxe
 
 
 CONTENTS OF TEXT FILE:
-saanvi\00\00\A09!\00\00\00\00\00\00`\EA\00\00pune\00\00\00\00deluxe\009\00\00\00
+Tanish\00\00\A09!\00\00\00\00\00\00`\EA\00\00pune\00\00\00\00deluxe\009\00\00\00
 
 */
