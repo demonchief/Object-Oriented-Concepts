@@ -118,10 +118,6 @@ int main(){
 
 OUTPUT
 
-saanvi@her-techplay:~/code/cpp$ g++ oops3.cpp
-saanvi@her-techplay:~/code/cpp$ ./a.out
-hello world
-
 enter operation: 
 1:add	2:subtract	3:multiply	4:divide 
 choice: 1
