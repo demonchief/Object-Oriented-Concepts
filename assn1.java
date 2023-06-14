@@ -79,11 +79,11 @@ class Student{
 /*
 OUTPUT
 
-saanvi@her-techplay:~/code/java/assn1$ java assn1.java
+
 enter name: 
-saanvi
+Tanish
 enter rn: 
-33
+73
 enter marks: 89
 enter marks: 99
 enter marks: 92
@@ -92,7 +92,7 @@ enter marks: 93
 
 
 STUDENT DETAILS
-name: saanvi
+name: Tanish
 rn: 33
 marks of subject 0: 89.0
 marks of subject 1: 99.0
