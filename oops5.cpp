@@ -158,10 +158,9 @@ int main(){
 
 /* OUTPUT
 
-saanvi@her-techplay:~/code/cpp$ ./a.out
-jello world
 
-enter name: saanvi
+
+enter name: Tanish
 
 enter id: 1
 
