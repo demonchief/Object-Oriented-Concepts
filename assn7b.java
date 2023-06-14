@@ -36,7 +36,6 @@ class MyThreadToo implements Runnable{
 /*
 OUTPUT
 
-saanvi@her-techplay:~/code/java/Multithreading$ java oops7b.java
 Thread one created
 Thread two created
 Thread two created
