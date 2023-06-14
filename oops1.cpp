@@ -65,9 +65,7 @@ int main(){
 OUTPUT
 
 
-saanvi@her-techplay:~/code/cpp$ g++ oops1.cpp
-saanvi@her-techplay:~/code/cpp$ ./a.out
-hello world
+
 student data: 
 roll no: 1
 name: saanvi
