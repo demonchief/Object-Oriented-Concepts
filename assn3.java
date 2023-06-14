@@ -56,7 +56,7 @@ class Employee implements Salary,Data{
 /*
 OUTPUT
 
-saanvi@her-techplay:~/code/java/javaEclipse/assn3$ java EmpDriver.java
+
 Enter Employee name: 
 manasi
 Enter employee id; 
