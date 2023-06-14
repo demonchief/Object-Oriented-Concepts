@@ -172,10 +172,10 @@ class CommisionEmployee extends Employee{
 /*
 OUTPUT
 
-saanvi@her-techplay:~/code/java$ java assn2.java
-jello world
+
+
 Enter name: 
-saanvi
+Tanish
 Enter id: 
 33
 Enter weekly salary: 
@@ -183,13 +183,13 @@ Enter weekly salary:
 
 
 EMPLOYEE DETAILS
-Employee name: saanvi
+Employee name: Tanish
 Employee id: 33
 Employee weekly salary: 15000.0
 
 
 Enter name: 
-sanskruti
+Om
 Enter id: 
 52
 Enter wage and hours: 
@@ -197,13 +197,13 @@ Enter wage and hours:
 
 
 EMPLOYEE DETAILS
-Employee name: sanskruti
+Employee name: Om
 Employee id: 52
 Employee hourly salary: 33000.0
 
 
 Enter name: 
-varnika
+Smit
 Enter id: 
 4 
 Enter gross sales and commissionate: 
@@ -211,7 +211,7 @@ Enter gross sales and commissionate:
 
 
 EMPLOYEE DETAILS
-Employee name: varnika
+Employee name: Smit
 Employee id: 4
 Employee commision salary: 6000.0
 
